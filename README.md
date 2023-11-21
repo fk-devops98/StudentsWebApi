@@ -36,12 +36,12 @@ _Advantage. 🎉
 _Run ```build``` in the visual studio app._
 
 ## List of students
-* METHOD: [GET]
-* URL: (https://localhost:7065/api/students)
+* Method: [GET]
+* Url: (https://localhost:7065/api/students)
 
 ## New student
-* METHOD: [POST]
-* URL: (https://localhost:7065/api/students)
+* Method: [POST]
+* Url: (https://localhost:7065/api/students)
 * Body: 
   - **Username**
   - **FirstName**
@@ -50,8 +50,8 @@ _Run ```build``` in the visual studio app._
   - **Career**
 
 ## Update student
-* METHOD: [PUT]
-* URL: (https://localhost:7065/api/students/Id)
+* Method: [PUT]
+* Url: (https://localhost:7065/api/students/Id)
 * Body: 
   - **Username**
   - **FirstName**
@@ -60,5 +60,5 @@ _Run ```build``` in the visual studio app._
   - **Career**
 
 ## Delete student
-* METHOD: [DELETE]
-* URL: (https://localhost:7065/api/students/Id)
+* Method: [DELETE]
+* Url: (https://localhost:7065/api/students/Id)
