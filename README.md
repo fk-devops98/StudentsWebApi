@@ -1,5 +1,11 @@
 # StudentsWebApi 🧾
-This project aims to obtain students information from the sqlLite.db sample.db3.
+This project  aims to obtain students information from the sqlLite.db sample.db3.
+
+This solution use hexagonal arquitecture and clean arquitecture.
+
+This solution use CQRS Pattern (Query and Command Single Responsibility).
+
+This solution use SOLID Principies.
 
 # Technologies 💻
 
