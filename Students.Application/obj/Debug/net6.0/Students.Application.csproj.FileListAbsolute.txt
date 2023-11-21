@@ -1,0 +1,17 @@
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Application.deps.json
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Application.runtimeconfig.json
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Application.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Application.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.csproj.AssemblyReference.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.AssemblyInfoInputs.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.AssemblyInfo.cs
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.csproj.CoreCompileInputs.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\refint\Students.Application.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.genruntimeconfig.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\ref\Students.Application.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Domain.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\bin\Debug\net6.0\Students.Domain.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Application\obj\Debug\net6.0\Students.Application.csproj.CopyComplete

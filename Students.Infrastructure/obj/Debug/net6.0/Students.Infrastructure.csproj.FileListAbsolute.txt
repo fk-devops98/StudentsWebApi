@@ -1,0 +1,17 @@
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Infrastructure.deps.json
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Infrastructure.runtimeconfig.json
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Infrastructure.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Infrastructure.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.csproj.AssemblyReference.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.AssemblyInfoInputs.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.AssemblyInfo.cs
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\refint\Students.Infrastructure.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.genruntimeconfig.cache
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\ref\Students.Infrastructure.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Domain.dll
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\bin\Debug\net6.0\Students.Domain.pdb
+E:\DevOps\ME\ENT\ENGINE.BI\Students\Students.Infrastructure\obj\Debug\net6.0\Students.Infrastructure.csproj.CopyComplete
