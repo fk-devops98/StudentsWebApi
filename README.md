@@ -51,7 +51,7 @@ _Run ```build``` in the visual studio app._
 
 ## Update student
 * METHOD: [PUT]
-* URL: (https://localhost:7065/api/students/**Id**)
+* URL: (https://localhost:7065/api/students/Id)
 * Body: 
   - **Username**
   - **FirstName**
@@ -61,4 +61,4 @@ _Run ```build``` in the visual studio app._
 
 ## Delete student
 * METHOD: [DELETE]
-* URL: (https://localhost:7065/api/students/**Id**)
+* URL: (https://localhost:7065/api/students/Id)
